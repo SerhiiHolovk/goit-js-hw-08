@@ -15,7 +15,7 @@
   "author": "Holovko Serhii",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SerhiiHolovk/goit-js-hw-08/issues"
+    "url": "https://github.com/goitacademy/parcel-project-template/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.20.1",
